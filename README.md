@@ -19,8 +19,6 @@ This project builds a system capable of analyzing **Arabic and English text/voic
 ## 🏗️ System Architecture
 The system processes **user text/voice input**, detects its language, translates non-English text, and predicts sentiment using trained deep learning models.  
 
-![System Architecture](./system_architecture.png)  
-
 ### Flow:
 1. **User Input** → Text or Voice  
 2. **Speech-to-Text** (for voice inputs)  
